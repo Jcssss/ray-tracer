@@ -1,3 +1,10 @@
+# Custom
+ray-tracer/*/img
+ray-tracer/*/build/*
+!ray-tracer/*/build/*.png
+ray-tracer/*/*.txt
+ray-tracer/*/*.md
+
 # Prerequisites
 *.d
 
